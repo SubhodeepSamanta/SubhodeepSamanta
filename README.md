@@ -23,7 +23,7 @@ const love = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   Goals: {
                         Coding: "Learn new things everyday";
-                        life: "Be Happy",
+                        life: "Be Happy";
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Full stack development"
 }
