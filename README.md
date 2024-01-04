@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate developer who's fascinated by the world of 0's and 1's.</h3>
 
-- I'm currently learning & making projects on **Full Stack Development and DSA** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> 
+- I'm currently learning & making projects on **Full Stack Development and DSA** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">  
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
