@@ -43,8 +43,6 @@ const love = {
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-nodejs-2-226035.png?f=webp&w=256" alt="nodejs" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-express-8-1175029.png?f=webp&w=256" alt="express" height="40"/> </a> 
 </p>
-
-
-<div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SubhodeepSamanta&theme=github-dark-dimmed&hide_border=true&border_radius=30&background=70%2C050F1A%2C12244A&stroke=E4DEEB&ring=E192FF&fire=EB5454&currStreakNum=BFE2EB&sideLabels=EBEBEB&currStreakLabel=E4EBD9&sideNums=C6DAEB" alt="GitHub Streak" /></a><br></div>
+<br>
 <p align="center"><em><b>♥ I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em> :)  </p>
 
