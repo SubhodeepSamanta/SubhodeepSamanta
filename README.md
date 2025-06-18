@@ -11,7 +11,6 @@
 <a href="https://linkedin.com/in/subhodeepsamanta" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/linkedin-2752135-2284952.png?f=webp&w=256" alt="subhodeepsamanta" height="30" /></a>
 <a href="https://instagram.com/comfortablydeep" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-1868978-1583142.png?f=webp&w=256" alt="comfortablydeep" height="30" /></a>
 <a href="https://www.leetcode.com/subhodeepsamanta" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" alt="subhodeepsamanta" height="30" /></a>
-<a href="https://www.discord.com/users/saikoukami" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-discord-3691244-3073764.png?f=webp&w=256" alt="subhodeepsamanta" height="30" /></a>
 <a href="mailto:subhodeepsamanta2005@gmail.com" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-30-722694.png?f=webp&w=256" alt="subhodeepsamanta2005" height="30" /></a>
 
 </p>
