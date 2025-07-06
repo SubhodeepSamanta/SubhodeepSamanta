@@ -1,47 +1,72 @@
-### Hello There ♡
-## I'm Subhodeep Samanta <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<h1 align="center">Hey there, I'm Subhodeep Samanta 👋</h1>
+<h3 align="center">A passionate developer fascinated by the world of 0's and 1's</h3>
 
-<h3 align="center">A passionate developer who's fascinated by the world of 0's and 1's.</h3>
-
-- I'm currently learning & making projects on **Full Stack Development and DSA** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">  
-
-<h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/_subhodeep" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-twitter-2038532-1718517.png?f=webp&w=256" alt="_subhodeep" height="30"/></a>
-<a href="https://linkedin.com/in/subhodeepsamanta" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/linkedin-2752135-2284952.png?f=webp&w=256" alt="subhodeepsamanta" height="30" /></a>
-<a href="https://instagram.com/comfortablydeep" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-1868978-1583142.png?f=webp&w=256" alt="comfortablydeep" height="30" /></a>
-<a href="https://www.leetcode.com/subhodeepsamanta" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" alt="subhodeepsamanta" height="30" /></a>
-<a href="mailto:subhodeepsamanta2005@gmail.com" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-30-722694.png?f=webp&w=256" alt="subhodeepsamanta2005" height="30" /></a>
-
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/>
 </p>
+
+---
+
+### 🚀 About Me
+
+- 🔭 I'm currently working on **Full Stack Development** and sharpening my **DSA** skills  
+- 🌱 Learning something new **every single day**  
+- 💡 Exploring modern frameworks, building fun & useful projects  
+- 🎯 Currently doing the **#100DaysOfCode** challenge (focused on full stack)
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://twitter.com/_subhodeep" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-twitter-2038532-1718517.png?f=webp&w=256" alt="Twitter" height="30"/>
+  </a>
+  <a href="https://linkedin.com/in/subhodeepsamanta" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/linkedin-2752135-2284952.png?f=webp&w=256" alt="LinkedIn" height="30"/>
+  </a>
+  <a href="https://instagram.com/comfortablydeep" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-1868978-1583142.png?f=webp&w=256" alt="Instagram" height="30"/>
+  </a>
+  <a href="https://www.leetcode.com/subhodeepsamanta" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" alt="Leetcode" height="30"/>
+  </a>
+  <a href="mailto:subhodeepsamanta2005@gmail.com" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-30-722694.png?f=webp&w=256" alt="Email" height="30"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-c-57-1175191.png?f=webp&w=256" alt="C" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-c-4-226082.png?f=webp&w=256" alt="C++" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-html-3628838-3030115.png?f=webp&w=256" alt="HTML5" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-css-131-722685.png?f=webp&w=256" alt="CSS3" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-bootstrap-7-1175254.png?f=webp&w=256" alt="Bootstrap" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png?f=webp&w=256" alt="JavaScript" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1-1175078.png?f=webp&w=256" alt="TypeScript" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-nodejs-2-226035.png?f=webp&w=256" alt="Node.js" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-express-8-1175029.png?f=webp&w=256" alt="Express.js" height="40"/>
+</p>
+
+---
+
+### 💻 Tech Stack (as JavaScript 👨‍💻 object)
 
 ```javascript
-const love = {
+const subhodeep = {
   pronouns: "He" | "Him",
-  code: [C, C++, HTML, CSS, Javascript, Typescript, Python],
-  tools: [Bootstrap, Tailwind, React],
-  architecture: ["Hard Working", "Passionate", "Enthusiastic", "Loving"],
-  Goals: {
-                        Coding: "Learn new things everyday";
-                        Life: "Be Happy";
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on Full stack development"
+  code: ["C", "C++", "HTML", "CSS", "JavaScript", "TypeScript", "Python"],
+  tools: ["Bootstrap", "Tailwind", "React", "Node.js", "Express"],
+  traits: ["Hard Working", "Passionate", "Enthusiastic", "Loving"],
+  goals: {
+    coding: "Learn new things everyday",
+    life: "Be happy"
+  },
+  challenge: "#100DaysOfCode - Full Stack Focus"
 }
-```
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-c-57-1175191.png?f=webp&w=256" alt="c" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-c-4-226082.png?f=webp&w=256" alt="cplusplus" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-html-3628838-3030115.png?f=webp&w=256" alt="html5" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-css-131-722685.png?f=webp&w=256" alt="css3" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-bootstrap-7-1175254.png?f=webp&w=256" alt="bootstrap" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwind" width="40" height="40" /> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png?f=webp&w=256" alt="javascript" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1-1175078.png?f=webp&w=256" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-nodejs-2-226035.png?f=webp&w=256" alt="nodejs" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-express-8-1175029.png?f=webp&w=256" alt="express" height="40"/> </a> 
-</p>
-<br>
-<p align="center"><em><b>♥ I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em> :)  </p>
-
