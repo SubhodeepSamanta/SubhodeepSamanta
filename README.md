@@ -1,6 +1,5 @@
 <h1 align="center">
-  Hey there, I'm Subhodeep Samanta 👋
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" height="35" width="35" style="vertical-align:middle;object-fit:contain;" />
+  Hey there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I'm Subhodeep Samanta 👋
 </h1>
 <h3 align="center">A passionate developer fascinated by the world of 0's and 1's</h3>
 
