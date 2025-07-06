@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer fascinated by the world of 0's and 1's</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" height="50" width="50" style="object-fit:contain;" />
 </p>
 
 ---
@@ -20,19 +20,19 @@
 
 <p align="center">
   <a href="https://twitter.com/_subhodeep" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-twitter-2038532-1718517.png" alt="Twitter" height="30" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-twitter-2038532-1718517.png" alt="Twitter" height="30" width="30" style="object-fit:contain;" />
   </a>
   <a href="https://linkedin.com/in/subhodeepsamanta" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-1464529-1239441.png" alt="LinkedIn" height="30" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-1464529-1239441.png" alt="LinkedIn" height="30" width="30" style="object-fit:contain;" />
   </a>
   <a href="https://instagram.com/comfortablydeep" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-1868978-1583142.png" alt="Instagram" height="30" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-1868978-1583142.png" alt="Instagram" height="30" width="30" style="object-fit:contain;" />
   </a>
   <a href="https://www.leetcode.com/subhodeepsamanta" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png" alt="Leetcode" height="30" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png" alt="Leetcode" height="30" width="30" style="object-fit:contain;" />
   </a>
   <a href="mailto:subhodeepsamanta2005@gmail.com" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-30-722694.png" alt="Gmail" height="30" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-30-722694.png" alt="Gmail" height="30" width="30" style="object-fit:contain;" />
   </a>
 </p>
 
@@ -41,17 +41,17 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-c-57-1175191.png" alt="C" height="40" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-c-4-226082.png" alt="C++" height="40" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-html-3628838-3030115.png" alt="HTML5" height="40" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-css-131-722685.png" alt="CSS3" height="40" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-bootstrap-7-1175254.png" alt="Bootstrap" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" height="40" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png" alt="JavaScript" height="40" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1-1175078.png" alt="TypeScript" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" height="40" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-nodejs-2-226035.png" alt="Node.js" height="40" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-express-8-1175029.png" alt="Express.js" height="40" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-c-57-1175191.png" alt="C" height="40" width="40" style="object-fit:contain;" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-c-4-226082.png" alt="C++" height="40" width="40" style="object-fit:contain;" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-html-3628838-3030115.png" alt="HTML5" height="40" width="40" style="object-fit:contain;" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-css-131-722685.png" alt="CSS3" height="40" width="40" style="object-fit:contain;" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-bootstrap-7-1175254.png" alt="Bootstrap" height="40" width="40" style="object-fit:contain;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" height="40" width="40" style="object-fit:contain;" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png" alt="JavaScript" height="40" width="40" style="object-fit:contain;" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1-1175078.png" alt="TypeScript" height="40" width="40" style="object-fit:contain;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" height="40" width="40" style="object-fit:contain;" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-nodejs-2-226035.png" alt="Node.js" height="40" width="40" style="object-fit:contain;" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-express-8-1175029.png" alt="Express.js" height="40" width="40" style="object-fit:contain;" />
 </p>
 
 ---
@@ -70,3 +70,4 @@ const subhodeep = {
   },
   challenge: "#100DaysOfCode - Full Stack Focus"
 }
+```
